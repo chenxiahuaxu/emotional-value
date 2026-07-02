@@ -1,0 +1,23 @@
+{
+  "name": "emotional-value",
+  "description": "情绪价值随身教练 — 四维诊断 + 正反对比 + 多公式改写，帮你把每一句回应说到对方心里去",
+  "version": "0.0.1",
+  "author": "emotional-value",
+  "license": "MIT",
+  "category": "social",
+  "tags": ["emotional-value", "communication", "empathy", "relationship", "chinese", "coaching"],
+  "triggers": [
+    "情绪价值", "帮我分析", "这句话怎么回", "ta生气了怎么办",
+    "我怎么回应更好", "提高情绪价值", "帮我改写", "看看我的回复有没有问题",
+    "共情训练", "怎么哄", "她说这话什么意思", "我该怎么说"
+  ],
+  "capabilities": [
+    "对话情绪信号识别",
+    "四维能力模型诊断（回应力/容错力/节奏感/锚定感）",
+    "低价值vs高价值回应正反对比",
+    "11套公式多方案改写",
+    "中文去AI味人话质检"
+  ],
+  "compatibility": ["claude-code", "opencode", "codex", "openclaw"],
+  "repository": "https://github.com/chenxiahuaxu/emotional-value"
+}
