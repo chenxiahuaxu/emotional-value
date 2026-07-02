@@ -14,6 +14,7 @@ metadata:
   author: emotional-value
   version: "0.0.1"
   category: social
+  compatible_runtimes: [claude-code, codex, opencode, openclaw, cursor, windsurf, hermes]
   tags: [emotional-value, communication, empathy, relationship, chinese, coaching]
 ---
 # 情绪价值随身教练

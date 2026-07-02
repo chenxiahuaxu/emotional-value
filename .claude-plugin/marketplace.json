@@ -18,6 +18,6 @@
     "11套公式多方案改写",
     "中文去AI味人话质检"
   ],
-  "compatibility": ["claude-code", "opencode", "codex", "openclaw"],
+  "compatibility": ["claude-code", "codex", "opencode", "openclaw", "cursor", "windsurf", "hermes"],
   "repository": "https://github.com/chenxiahuaxu/emotional-value"
 }
