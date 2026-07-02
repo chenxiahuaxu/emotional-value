@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Compatible-blue)]()
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-orange)]()
-[![Version](https://img.shields.io/badge/Version-0.1.0-yellow)]()
+[![Version](https://img.shields.io/badge/Version-0.0.1-yellow)]()
 
 ---
 
@@ -63,7 +63,7 @@
 
 ```bash
 # 将本仓库 clone 到 Claude Code 的 skills 目录
-git clone https://github.com/your-org/emotional-value.git ~/.claude/skills/emotional-value/
+git clone https://github.com/chenxiahuaxu/emotional-value.git ~/.claude/skills/emotional-value/
 ```
 
 ### 方式二：OpenClaw / ClawHub
