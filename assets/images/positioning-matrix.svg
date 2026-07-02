@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 460" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="600" height="460" fill="#fafafa" rx="12"/>
+  
+  <text x="300" y="40" text-anchor="middle" font-size="20" font-weight="700" fill="#1e293b">同类技能定位对比</text>
+
+  <!-- 坐标轴 -->
+  <line x1="60" y1="320" x2="540" y2="320" stroke="#cbd5e1" stroke-width="1.5"/>
+  <line x1="300" y1="70" x2="300" y2="400" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- 轴标签 -->
+  <text x="80" y="345" font-size="12" fill="#64748b">替你聊</text>
+  <text x="500" y="345" font-size="12" fill="#1e40af" font-weight="700" text-anchor="end">教你聊</text>
+  <text x="280" y="80" font-size="12" fill="#64748b" text-anchor="end">单一框架</text>
+  <text x="320" y="420" font-size="12" fill="#1e40af" font-weight="700">多框架组合</text>
+
+  <!-- 象限标签 -->
+  <text x="80" y="95" font-size="10" fill="#cbd5e1">标准化回复</text>
+  <text x="500" y="95" font-size="10" fill="#cbd5e1" text-anchor="end">单一技法</text>
+  <text x="80" y="400" font-size="10" fill="#cbd5e1">话术搜索</text>
+  <text x="520" y="400" font-size="10" fill="#3b82f6" text-anchor="end" font-weight="700">教练式诊断</text>
+
+  <!-- Love Companion -->
+  <rect x="80" y="120" width="160" height="56" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="160" y="144" text-anchor="middle" font-size="13" fill="#475569" font-weight="700">Love Companion</text>
+  <text x="160" y="164" text-anchor="middle" font-size="10" fill="#94a3b8">AI替你回复，你是旁观者</text>
+
+  <!-- NVC Coach -->
+  <rect x="360" y="120" width="160" height="56" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="440" y="144" text-anchor="middle" font-size="13" fill="#475569" font-weight="700">NVC Coach</text>
+  <text x="440" y="164" text-anchor="middle" font-size="10" fill="#94a3b8">只教非暴力沟通</text>
+
+  <!-- 高情商话术库 -->
+  <rect x="80" y="270" width="160" height="56" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="160" y="294" text-anchor="middle" font-size="13" fill="#475569" font-weight="700">高情商话术库</text>
+  <text x="160" y="314" text-anchor="middle" font-size="10" fill="#94a3b8">标准答案，不教为什么</text>
+
+  <!-- 情绪价值教练（高亮） -->
+  <rect x="340" y="258" width="200" height="80" rx="10" fill="#eff6ff" stroke="#3b82f6" stroke-width="2.5"/>
+  <text x="440" y="286" text-anchor="middle" font-size="15" fill="#1d4ed8" font-weight="700">⭐ 情绪价值教练</text>
+  <text x="440" y="308" text-anchor="middle" font-size="11" fill="#3b82f6">四维诊断 + 正反对比 + 公式改写</text>
+  <text x="440" y="326" text-anchor="middle" font-size="10" fill="#64748b">教你怎么说，也教你为什么</text>
+</svg>

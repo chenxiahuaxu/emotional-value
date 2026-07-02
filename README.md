@@ -54,6 +54,10 @@
 | **高价值改写** | 2-3个更好的替代回应方案 | "那我到底该怎么说？" |
 | **原理拆解** | 为什么原来的不好，为什么新的更好 | "为什么这样是对的？" |
 
+<p align="center">
+  <img src="assets/images/pipeline-five-steps.svg" alt="五步分析流程" width="720">
+</p>
+
 ---
 
 ## 诊断与改写方法
@@ -64,6 +68,10 @@
 | **正反案例对比** | 通过低价值 vs 高价值回应的直观对比进行改写教学 |
 | **工具公式库** | FFN倾听/FFC赞美/双面胶/富兰克林效应/转化公式等即用型回应工具 |
 | **场景分类** | 覆盖亲密关系/职场/人际/家庭四类日常沟通场景 |
+
+<p align="center">
+  <img src="assets/images/radar-four-dimensions.svg" alt="四维能力模型" width="460">
+</p>
 
 ---
 
@@ -135,6 +143,10 @@
 情绪回应层次：对方释放情绪信号时，回应有四个层次——忽视、承认、验证、共情。"早点休息"停留在"承认"的上半段，你没有验证她的感受（"你今天确实辛苦了"），更没有共情（"我理解那种累"）。
 
 **参考：**四维能力模型 + 《高情绪价值》回应层次
+
+<p align="center">
+  <img src="assets/images/pyramid-response-levels.svg" alt="情绪回应层次模型" width="500">
+</p>
 
 ---
 
@@ -278,6 +290,10 @@ git clone https://github.com/chenxiahuaxu/emotional-value.git ~/skills/emotional
 | [Communication Skill](https://clawhub.com) | 通用沟通框架 | 覆盖职场/谈判/公开演讲，不聚焦亲密关系中的情绪价值 |
 | [NVC Coach](https://github.com) | 单一框架教练 | 只教非暴力沟通，我们是多框架组合（高情绪价值+Gottman+NVC+3F） |
 | 某平台"高情商话术" | 固定话术库 | 给标准答案，不分析为什么、不诊断你的短板，学完不会举一反三 |
+
+<p align="center">
+  <img src="assets/images/positioning-matrix.svg" alt="同类技能定位对比" width="540">
+</p>
 
 ### 一句话总结
 

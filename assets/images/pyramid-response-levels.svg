@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="600" height="420" fill="#fafafa" rx="12"/>
+  
+  <text x="300" y="40" text-anchor="middle" font-size="20" font-weight="700" fill="#1e293b">情绪回应层次</text>
+  <text x="300" y="62" text-anchor="middle" font-size="13" fill="#64748b">从忽视到共情，每一次升级都多一层理解</text>
+
+  <!-- 忽视（最窄） -->
+  <rect x="60" y="90" width="100" height="56" rx="8" fill="#ef4444" fill-opacity="0.9"/>
+  <text x="80" y="115" font-size="16" fill="#ffffff" font-weight="700">忽视</text>
+  <text x="80" y="135" font-size="11" fill="#fecaca">已读不回</text>
+  <text x="150" y="115" text-anchor="end" font-size="14" fill="#ffffff" font-weight="700">★</text>
+
+  <!-- 承认 -->
+  <rect x="60" y="156" width="200" height="56" rx="8" fill="#f97316" fill-opacity="0.9"/>
+  <text x="80" y="181" font-size="16" fill="#ffffff" font-weight="700">表面承认</text>
+  <text x="80" y="201" font-size="12" fill="#fed7aa">"早点休息吧"</text>
+  <text x="250" y="181" text-anchor="end" font-size="14" fill="#ffffff" font-weight="700">★★</text>
+
+  <!-- 验证 -->
+  <rect x="60" y="222" width="320" height="56" rx="8" fill="#eab308" fill-opacity="0.9"/>
+  <text x="80" y="247" font-size="16" fill="#422006" font-weight="700">验证感受</text>
+  <text x="80" y="267" font-size="12" fill="#713f12">"你今天确实辛苦了"</text>
+  <text x="370" y="247" text-anchor="end" font-size="14" fill="#422006" font-weight="700">★★★</text>
+
+  <!-- 共情（最宽） -->
+  <rect x="60" y="288" width="480" height="56" rx="8" fill="#22c55e" fill-opacity="0.9"/>
+  <text x="80" y="313" font-size="16" fill="#ffffff" font-weight="700">深层共情</text>
+  <text x="80" y="333" font-size="12" fill="#ecfdf5">"累坏了吧？今天忙什么了，跟我说说"</text>
+  <text x="530" y="313" text-anchor="end" font-size="14" fill="#ffffff" font-weight="700">★★★★</text>
+  <text x="530" y="333" text-anchor="end" font-size="11" fill="#bbf7d0">√ 最佳</text>
+
+  <!-- 底部说明 -->
+  <rect x="60" y="360" width="480" height="48" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="300" y="382" text-anchor="middle" font-size="12" fill="#64748b">大多数人的回应停留在"承认"的上半段，</text>
+  <text x="300" y="398" text-anchor="middle" font-size="12" fill="#64748b">没有验证感受，更没有共情</text>
+</svg>

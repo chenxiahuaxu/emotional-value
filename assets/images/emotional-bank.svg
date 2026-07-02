@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif">
+  <rect width="600" height="360" fill="#fafafa" rx="12"/>
   <defs>
     <linearGradient id="withdrawGrad" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#fecaca"/><stop offset="100%" stop-color="#fca5a5"/>
@@ -36,8 +37,8 @@
   <!-- Right column: DEPOSIT -->
   <rect x="300" y="45" width="270" height="270" rx="10" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="1.5"/>
   <!-- Up arrow -->
-  <rect x="425" y="100" width="20" height="14" fill="#22c55e"/>
-  <polygon points="435,65 415,100 455,100" fill="#22c55e"/>
+  <polygon points="435,114 455,79 415,79" fill="#22c55e"/>
+  <rect x="425" y="65" width="20" height="14" fill="#22c55e"/>
   <text x="435" y="130" text-anchor="middle" font-size="14" fill="#16a34a" font-weight="700">存款 ✅</text>
 
   <!-- Deposit examples -->
